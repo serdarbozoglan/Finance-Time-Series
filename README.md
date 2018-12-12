@@ -1,1 +1,1 @@
-# Finans-Time-Series
+# Finance/Time-Series
